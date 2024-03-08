@@ -4,7 +4,7 @@
 ![image10](https://github.com/pablomarcos/EventChannelsSO/assets/10771957/8f8dc6b6-8a31-444a-897e-7238873d6cda)
 
 
-### Using Unity ScriptableObjects as Event Managers
+## Using Unity ScriptableObjects as Event Managers
 
 
 - Create the event channels with the Create Menu
