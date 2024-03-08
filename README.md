@@ -10,7 +10,7 @@
 
 - Codeless listeners: prototype event-driven logic just with a few settings in the Inspector.
 
-  ![image5](https://github.com/pablomarcos/EventChannelsSO/assets/10771957/5ed8e944-d462-4e03-9d4e-7f32d1190478)
+![image5](https://github.com/pablomarcos/EventChannelsSO/assets/10771957/5ed8e944-d462-4e03-9d4e-7f32d1190478)
 
 - Examples on how to pass a single parameter, such as a float, int, or bool.
 
